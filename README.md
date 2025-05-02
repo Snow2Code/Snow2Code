@@ -1,22 +1,23 @@
 # ❄️ Snow2Code
 
-Hey. I'm Snowy — a soft-spoken dev who prefers calm over chaos.
+Hey. I'm Snowy — a quiet, tech-loving arctic fox with a soft heart and a thing for fluffy tails.
 
-- 🧊 I mess with code, tools, themes, and small experiments
-- 🦊 Arctic fox fursona. Quiet, fluffy, and a little shy — just like me
-- 🌈 Pansexual. Aroace. Non-binary. And yes, I'm a furry.
-- 🛠️ I build when I'm bored and tinker when I shouldn't
+- 💻 I tinker with code, themes, setups, and anything I can customize
+- 🦊 Arctic fox fursona. Shy, snow-white, and absolutely me
+- 🌈 Pansexual. Aroace. Non-binary. Also a furry — deal with it
+- 🪟 Windows user. No Linux. I like things simple (but not *that* simple)
+- 🦊 I love foxes. They’re just the best. That’s not up for debate.
 
-## 🔧 Tech I Touch
-- **Languages:** Python, JavaScript, HTML/CSS, maybe a bit of Sourcepawn when I feel like pain
-- **Tools:** Git, VSCode, Node.js, whatever else I break along the way
-- **Vibes:** Terminal themes, CSS hell, bash aliases I forget about
+## 🔧 Tech I Use
+- **Languages:** Python, JavaScript, HTML/CSS, and sometimes SourcePawn when I'm okay with suffering
+- **Tools:** Git, VSCode, Node.js, and other nonsense that gets the job done
+- **Style:** Clean code, cozy UI, no terminal wizardry unless I have to
 
 ## 🔗 Find Me
-- 📂 Repos: Scroll down. They're chaotic, but they're mine. Can check my organiations for them to.
-- 🐾 Furry trash: Confirmed. Digital fursona TBD.
-- ✨ Custom setups, themes, tweaks: Sometimes pretty. Usually overly complicated.
+- 📁 Repos: Scroll down. Some are in my orgs too — I bounce around a bit
+- 🧊 Setups and themes: Yes, I overthink colors. Yes, it’s worth it
+- 🦊 Fursona: Snowy. Arctic fox. Me, but fluffier
 
 ---
 
-> You're valid. No matter what other think of you.
+> You're valid. No matter what others think of you.
