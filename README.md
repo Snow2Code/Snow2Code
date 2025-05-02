@@ -19,4 +19,4 @@ Hey. I'm Snowy — a soft-spoken dev who prefers calm over chaos.
 
 ---
 
-> You're valid. No matter what other think of you. <
+> You're valid. No matter what other think of you.
