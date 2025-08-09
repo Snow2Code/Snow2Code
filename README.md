@@ -42,4 +42,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaiminn05&show_icons=true&theme=dark&locale=en&layout=compact" alt="kaiminn05" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kaiminn05&show_icons=true&theme=dark&locale=en" alt="kaiminn05" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=snow2code&show_icons=true&theme=dark&locale=en" alt="kaiminn05" /></p>
