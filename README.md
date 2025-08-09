@@ -1,7 +1,11 @@
-<h1 align="center">Hi there, I'm Kaiminn</h1>
-<h3 align="center">A passionate software developer from Malaysia</h3>
+<h1 align="center">Hey there, I'm Snow2Code / Snowy</h1>
+<h3 align="center">A quiet, tech-loving arctic fox with a soft heart and a thing for fluffy tails.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=snow2code&label=Profile%20views&color=0e75b6&style=flat" alt="snow2code" /> </p>
+<!-- Profile Views -->
+<p align="left">
+	<img src="https://komarev.com/ghpvc/?username=snow2code&label=Profile%20views&color=0e75b6&style=flat" alt="snow2code profile views"/>
+</p>
+
 <p align="left"> 
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="java" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="c" />
@@ -43,3 +47,25 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=snow2code&show_icons=true&theme=dark&locale=en&layout=compact" alt="snow2code" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=snow2code&show_icons=true&theme=dark&locale=en" alt="snow2code" /></p>
+
+
+
+- 💻 I tinker with code, themes, setups, and anything I can customize
+- 🦊 Arctic fox fursona. Shy, snow-white, and absolutely me
+- 🌈 Pansexual. Aroace. Non-binary. Also a furry — deal with it
+- 🪟 Windows user. No Linux. I like things simple (but not *that* simple)
+- 🦊 I love foxes. They’re just the best. That’s not up for debate.
+
+## 🔧 Tech I Use
+- **Languages:** Python, JavaScript, HTML/CSS, and sometimes SourcePawn when I'm okay with suffering
+- **Tools:** Git, VSCode, Node.js, and other nonsense that gets the job done
+- **Style:** Clean code, cozy UI, no terminal wizardry unless I have to
+
+## 🔗 Find Me
+- 📁 Repos: Scroll down. Some are in my orgs too — I bounce around a bit
+- 🧊 Setups and themes: Yes, I overthink colors. Yes, it’s worth it
+- 🦊 Fursona: Snowy. Arctic fox. Me, but fluffier
+
+---
+
+> You're valid. No matter what others think of you.
