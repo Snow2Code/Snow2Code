@@ -48,7 +48,7 @@
 
 <h3 align="left">Languages:</h3>
 
-<p align="left"> 
+<!-- <p align="left">  -->
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/> </a>
 
   <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40"/> </a>
@@ -61,7 +61,7 @@
   
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
   
-</p>
+<!-- </p> -->
 
 <p> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=snow2code&show_icons=true&theme=dark&locale=en&layout=compact" alt="snow2code"/> </p>
 
