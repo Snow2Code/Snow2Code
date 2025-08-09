@@ -16,12 +16,6 @@
   <img src="https://img.shields.io/badge/SourcePawn-777BB4?style=for-the-badge&logo=sourcemod&logoColor=white" alt="sourcepawn" />
 </p>
 
-<p align="left"> 
-  <img src="https://img.shields.io/badge/apple%20music-F34E68?style=for-the-badge&logo=apple%20music&logoColor=white" alt="applemusic" /> 
-  <img src="https://img.shields.io/badge/NVIDIA-RTX2080-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="gpu" />
-  <img src="https://img.shields.io/badge/Intel-Core_i5_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white" alt="cpu" />
-</p>
-
 - 📖 I’m currently studying Diploma in Information Technology in **Tunku Abdul Rahman Technology and Management (TARUMT)**
 
 - 🌱 I’m currently learning **Swift(IOS Development)**
